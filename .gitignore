@@ -1,0 +1,4 @@
+UrbanSound8K/
+best_bilstm.keras
+yamnet_embeddings.pkl
+dados_processados/
